@@ -32,7 +32,7 @@ It demonstrates the basics of **gesture-based human-computer interaction**.
 - MediaPipe
 
 ---
-
+Note: Use Python 3.10
 ## ▶️ How to Run
 
 ### 1️⃣ Create Virtual Environment
